@@ -1,7 +1,6 @@
 Rotation
 =========
-
-This is a small game that I made with coronasdk. 
+A fast paced cross platform mobile game built on corona sdk.
 
 Play Store:
 https://play.google.com/store/apps/details?id=me.getrotation.rotation
